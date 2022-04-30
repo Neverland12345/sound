@@ -1,0 +1,8 @@
+prefix=/home/ucar/sound/devel
+
+Name: audio_play
+Description: Description of audio_play
+Version: 0.3.13
+Cflags: 
+Libs: -L/home/ucar/sound/devel/lib 
+Requires: 

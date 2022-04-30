@@ -1,0 +1,2 @@
+audio_common-master/audio_capture:audio_common-master/audio_common:audio_common-master/audio_common_msgs:audio_common-master/audio_play:audio_common-master/sound_play
+-DCATKIN_DEVEL_PREFIX=/home/ucar/sound/devel -DCMAKE_INSTALL_PREFIX=/home/ucar/sound/install -G Unix Makefiles

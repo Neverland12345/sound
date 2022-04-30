@@ -1,0 +1,8 @@
+prefix=/home/ucar/sound/install
+
+Name: audio_common_msgs
+Description: Description of audio_common_msgs
+Version: 0.3.13
+Cflags: -I/home/ucar/sound/install/include
+Libs: -L/home/ucar/sound/install/lib 
+Requires: message_runtime
